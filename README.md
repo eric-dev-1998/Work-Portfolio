@@ -1,7 +1,9 @@
 # Work-Portfolio
 
-This is my work portfolio, here you can find some of projects i've worked in at college and some other personal projects i worked in on my free time.
-I can work as full stack developer but i specialize in videogames development.
+My name is Eric and this is my work portfolio.
+Im an Computer Science Engineer specialized in Videogame developemt.
+
+Here you will find some develpment projects i've worked in, some at college and some other i developed on my free time. You can find more project specific information on each reposotory.
 
 ## College projects.
 Most of these projets are incomplete but serve as an demonstration of my knowledge and habilities on different fields like:
