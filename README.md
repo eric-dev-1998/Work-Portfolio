@@ -1,26 +1,11 @@
-# Work-Portfolio
+## Work Portfolio:
+This is my current work portfolio.
 
-My name is Eric and this is my work portfolio.
-Im an Computer Science Engineer specialized in Videogame developemt.
+The following are personal projects i developed on my free time.
 
-Here you will find some develpment projects i've worked in, some at college and some other i developed on my free time. You can find more project specific information on each reposotory.
+## Game development:
+- Unity top down 3D adventure game (WIP): [Go to repository](https://github.com/eric-dev-1998/Unity-top-down-3d-adventure-game.git)
+- (Godot) Chest Game: [Go to repository](https://github.com/eric-dev-1998/godot-chest-game.git)
 
-## College projects.
-Most of these projets are incomplete but serve as an demonstration of my knowledge and habilities on different fields like:
-  1. Software Egineering
-  2. Programming
-  3. Database development and management
-  4. Videogame development
-  5. Web development
-  6. Mobile app development
-
-## Personal develpment projects: 
-These are mostly videogames made in Unity or Godot.
-I specialize in videogame development, i've worked on some fields listed bellow but not limited to:
-  1. Gameplay programming
-  2. 2D and 3D level design
-  3. 3D Modeling
-  4. 2D Texture design.
-  5. Shading basics
-  6. Object animations
-  7. Helping tools development.
+## Standalone apps:
+- ASL - App setup launcher: [Go to repository](https://github.com/eric-dev-1998/ASL-App-setup-launcher.git)
